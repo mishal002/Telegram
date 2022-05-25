@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Telegram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1095" />
+        <entry key="..\:/Telegram/app/src/main/res/drawable/menu.xml" value="0.1095" />
+        <entry key="..\:/Telegram/app/src/main/res/drawable/settings.xml" value="0.1245" />
+        <entry key="..\:/Telegram/app/src/main/res/layout-land/activity_login_screen.xml" value="0.1835032437442076" />
+        <entry key="..\:/Telegram/app/src/main/res/layout-land/activity_main.xml" value="0.24479166666666666" />
+        <entry key="..\:/Telegram/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.2" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/activity_login_screen.xml" value="0.2" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/activity_slpesh_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/activity_two.xml" value="0.25416666666666665" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/drawer_hedar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Telegram/app/src/main/res/layout/menu_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Telegram/app/src/main/res/menu/drawer_menu.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
